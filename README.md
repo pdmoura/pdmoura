@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **`Software Development`**
 
-Hi, I’m Pedro! I’m a Technical Support Specialist in Apple Device Management and a Mentor with BYU Pathway Worldwide. I’m passionate about technology and the plan of salvation. I enjoy coding, especially Python automation, and I'm studying Software Development to become a full-stack developer. I first learned English through games, YouTube, and music. Outside of tech, I love gaming, skating, and hanging out with friends. Let’s connect!
+I’m Pedro! I’m a Technical Support Specialist in Apple Device Management and a Mentor with BYU Pathway Worldwide. I’m passionate about technology and the plan of salvation. I enjoy coding, especially Python automation, and I'm studying Software Development to become a full-stack developer. I first learned English through games, YouTube, and music. Outside of tech, I love gaming, skating, and hanging out with friends. Let’s connect!
 
 ---
 ### 🤖 Languages
