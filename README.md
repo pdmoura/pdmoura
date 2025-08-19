@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **`Software Development`**
 
-I’m Pedro! I’m a Technical Support Specialist in Apple Device Management and a Mentor with BYU Pathway Worldwide. I’m passionate about technology and the plan of salvation. I enjoy coding, especially Python automation, and I'm studying Software Development to become a full-stack developer. I first learned English through games, YouTube, and music. Outside of tech, I love gaming, skating, and hanging out with friends. Let’s connect!
+I’m Pedro! I’m a Customer Success Specialist in AccessMule, a workflow platform design to help SMBs handle User Access and Password Management. I’m passionate about technology and the plan of salvation. I enjoy coding, especially Python automation, and I'm studying Software Development to become a full-stack developer. I first learned English through games, YouTube, and music. Outside of tech, I love gaming, skating, and hanging out with friends. Let’s connect!
 
 ---
 ### 🤖 Languages
@@ -47,13 +47,14 @@ I’m Pedro! I’m a Technical Support Specialist in Apple Device Management and
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img 
+<!-- <img 
     align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
     style="padding-right: 10px;"    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+-->
 
 <img 
     align="left" 
