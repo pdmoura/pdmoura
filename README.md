@@ -25,7 +25,7 @@ I’m Pedro! I’m a Customer Success Specialist in AccessMule, a workflow platf
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -33,7 +33,7 @@ I’m Pedro! I’m a Customer Success Specialist in AccessMule, a workflow platf
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -42,7 +42,7 @@ I’m Pedro! I’m a Customer Success Specialist in AccessMule, a workflow platf
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -60,7 +60,7 @@ I’m Pedro! I’m a Customer Success Specialist in AccessMule, a workflow platf
     align="left" 
     alt="C#" 
     title="C#"
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
     
@@ -68,7 +68,7 @@ I’m Pedro! I’m a Customer Success Specialist in AccessMule, a workflow platf
     align="left" 
     alt="JS" 
     title="JS"
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     
@@ -76,7 +76,7 @@ I’m Pedro! I’m a Customer Success Specialist in AccessMule, a workflow platf
     align="left" 
     alt="NodeJS" 
     title="NodeJS"
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
     
@@ -84,7 +84,7 @@ I’m Pedro! I’m a Customer Success Specialist in AccessMule, a workflow platf
     align="left" 
     alt="Angular" 
     title="Angular"
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 
