@@ -74,19 +74,19 @@ I’m Pedro! I’m a Customer Success Specialist in AccessMule, a workflow platf
     
   <img  
     align="left" 
-    alt="JS" 
-    title="JS"
+    alt="NodeJS" 
+    title="NodeJS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
     
   <img  
     align="left" 
-    alt="JS" 
-    title="JS"
+    alt="Angular" 
+    title="Angular"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain-wordmark.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 
 <br/>
 <br/>
