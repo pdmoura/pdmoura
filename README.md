@@ -87,6 +87,14 @@ I’m Pedro! I’m a Customer Success Specialist in AccessMule, a workflow platf
     width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+    
+  <img  
+    align="left" 
+    alt="React" 
+    title="React"
+    width="34px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 <br/>
 <br/>
