@@ -99,14 +99,7 @@ I’m Pedro! I’m a Customer Success Specialist in AccessMule, a workflow platf
 <br/>
 <br/>
 
-### 📊 Statistics
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdmoura&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" align="center" style="width: 100%" />
 
 </p>
 
