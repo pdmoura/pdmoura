@@ -80,13 +80,13 @@ I’m Pedro! I’m a Customer Success Specialist in AccessMule, a workflow platf
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
     
-  <img  
+ <!-- <img  
     align="left" 
     alt="Angular" 
     title="Angular"
     width="34px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> -->
     
   <img  
     align="left" 
