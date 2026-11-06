@@ -14,49 +14,47 @@
 
 ---
 
-## 👋 About me
+## About me
 
 I'm Pedro, a full-stack engineer from Brasília, Brazil. I build and run production web apps end to end, mostly in TypeScript: Node.js/NestJS APIs, React/Next.js and Angular frontends, PostgreSQL underneath, shipped with Docker and GitHub Actions.
 
-- 🛠️ Founder of **[CTR Nexus](https://ctrnexus.com)**, where I've built 6+ production apps for healthcare, media, construction, accounting and professional-services clients
-- 🤝 Customer Success Specialist (technical) at **AccessMule**, a US-based platform that helps SMBs handle user access and password management
-- 🎓 Bachelor's in Software Development at **BYU-Idaho** (expected Apr. 2027)
-- 🤖 AI-native: I work with Claude Code and Cursor every day, and I review and test everything they produce
-- 🌎 Portuguese (native), English (C2, first learned through games, YouTube and music) and Spanish (advanced)
-- 💡 Passionate about technology and the plan of salvation
-- 🛹 Outside of tech: gaming, skating and hanging out with friends
+- Founder of **[CTR Nexus](https://ctrnexus.com)**, where I've built 6+ production apps for healthcare, media, construction, accounting and professional-services clients
+- Customer Success Specialist (technical) at **AccessMule**, a US-based platform that helps SMBs handle user access and password management
+- Bachelor's in Software Development at **BYU-Idaho** (expected Apr. 2027)
+- AI-native: I work with Claude Code and Cursor every day, and I review and test everything they produce
+- Portuguese (native), English (C2, first learned through games, YouTube and music) and Spanish (advanced)
+- Passionate about technology and the plan of salvation. Outside of tech: gaming, skating and hanging out with friends
 
-## 🎯 Open to
+## Open to
 
 Junior **full-stack** and **software engineering** roles, remote or hybrid, especially:
 
 **TypeScript full-stack** (Node.js / NestJS + React / Next.js) · **Frontend** · **C# / .NET** · **Python / Odoo** · **Fintech & payments** · **Graduate programs**
 
-## 🧰 Tech stack
+## Tech stack
 
-<div align="center">
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <th>Frameworks</th>
+    <th>Data</th>
+    <th>DevOps &amp; tools</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=ts,js,py,cs,html,css&perline=3" alt="TypeScript, JavaScript, Python, C#, HTML, CSS"/></td>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,react,nextjs,angular,tailwind&perline=3" alt="Node.js, NestJS, .NET, React, Next.js, Angular, Tailwind CSS"/></td>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,mysql,redis&perline=3" alt="PostgreSQL, Prisma, Supabase, MySQL, Redis"/></td>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,vercel,cloudflare,git,github,vscode&perline=3" alt="Docker, GitHub Actions, Linux, Nginx, Vercel, Cloudflare, Git, GitHub, VS Code"/></td>
+  </tr>
+</table>
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,py,cs,html,css" alt="TypeScript, JavaScript, Python, C#, HTML, CSS"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
+</p>
 
-**Backend & data**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,postgres,prisma,supabase,mysql,redis" alt="Node.js, NestJS, .NET, PostgreSQL, Prisma, Supabase, MySQL, Redis"/>
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind" alt="React, Next.js, Angular, Tailwind CSS"/>
-
-**DevOps & tools**<br/>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,vercel,cloudflare,git,github,vscode" alt="Docker, GitHub Actions, Linux, Nginx, Vercel, Cloudflare, Git, GitHub, VS Code"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
-
-</div>
-
-## 🚀 Featured projects
+## Featured projects
 
 - **[Nexus Scan](https://scan.ctrnexus.com)**: local-business audit SaaS. TypeScript monorepo (NestJS API, Next.js app, background worker) on PostgreSQL with 24 Prisma models, AI-generated audit explanations, and CI/CD with database backups and automatic rollback.
 - **[Rotating Parking Management](https://github.com/pdmoura/verzel-estacionamento)** ([live](https://praca-central-estacionamento.vercel.app)): NestJS REST API with serializable transactions for concurrent reservations, a FIFO waitlist and an event-sourced audit history, covered by 24 e2e tests in CI.
