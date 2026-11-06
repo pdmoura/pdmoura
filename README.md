@@ -18,7 +18,7 @@
 
 I'm Pedro, a full-stack engineer from Brasília, Brazil. I build and run production web apps end to end, mostly in TypeScript: Node.js/NestJS APIs, React/Next.js and Angular frontends, PostgreSQL underneath, shipped with Docker and GitHub Actions.
 
-- Founder of **[CTR Nexus](https://ctrnexus.com)**, where I've built 6+ production apps for healthcare, media, construction, accounting and professional-services clients
+- Founder of **[CTR Nexus](https://ctrnexus.com)**, where I've built 6+ production apps for healthcare, media, construction, accounting and professional-services clients, including **[Nexus Scan](https://scan.ctrnexus.com)**, a local-business audit SaaS
 - Customer Success Specialist (technical) at **AccessMule**, a US-based platform that helps SMBs handle user access and password management
 - Bachelor's in Software Development at **BYU-Idaho** (expected Apr. 2027)
 - AI-native: I work with Claude Code and Cursor every day, and I review and test everything they produce
@@ -53,14 +53,6 @@ Junior **full-stack** and **software engineering** roles, remote or hybrid, espe
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
 </p>
-
-## Featured projects
-
-- **[Nexus Scan](https://scan.ctrnexus.com)**: local-business audit SaaS. TypeScript monorepo (NestJS API, Next.js app, background worker) on PostgreSQL with 24 Prisma models, AI-generated audit explanations, and CI/CD with database backups and automatic rollback.
-- **[Rotating Parking Management](https://github.com/pdmoura/verzel-estacionamento)** ([live](https://praca-central-estacionamento.vercel.app)): NestJS REST API with serializable transactions for concurrent reservations, a FIFO waitlist and an event-sourced audit history, covered by 24 e2e tests in CI.
-- **[Cadence](https://github.com/pdmoura/cadence)** ([live](https://cadence-jo48.onrender.com)): AI-assisted SDR workbench in ASP.NET Core, where a person approves or rejects every AI suggestion. 38 tests in CI.
-- **Odoo 19 modules**: [oficina-os](https://github.com/pdmoura/oficina-os) (work orders for truck-electrics shops, with a mechanic phone app and NFS-e invoicing) and [odoo-vendor-scorecard](https://github.com/pdmoura/odoo-vendor-scorecard) (grades vendors A to D from purchase data).
-- **[Claude Desktop Side by Side](https://github.com/pdmoura/claude-desktop-side-by-side)**: run several Claude Desktop accounts at once, each with its own colored taskbar icon.
 
 <br/>
 
