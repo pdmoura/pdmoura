@@ -1,93 +1,75 @@
-<!--
-**pdmoura/pdmoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:166534,50:16A34A,100:4ADE80&height=190&section=header&text=Pedro%20Alves&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%E2%80%A2%20React&descAlignY=58&descSize=18" alt="Pedro Alves, Full-Stack Engineer"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=620&lines=Full-stack+web+apps%2C+from+database+to+deploy;NestJS+%2B+PostgreSQL+%2B+Next.js;AI-native%3A+building+with+Claude+Code+every+day;Bras%C3%ADlia%2C+Brazil+%E2%80%A2+Remote+%E2%80%A2+EN+%2F+PT+%2F+ES" alt="Full-stack web apps, from database to deploy"/></a>
 
-## Hi there 👋
+<br/><br/>
 
-**`Software Development`**
+<a href="https://www.linkedin.com/in/pedroalves0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://pedrow.tech"><img src="https://img.shields.io/badge/Portfolio-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://ctrnexus.com"><img src="https://img.shields.io/badge/CTR_Nexus-0D1117?style=for-the-badge&logo=github&logoColor=4ADE80" alt="CTR Nexus"/></a>
 
-I'm Pedro! I'm a Customer Success Specialist at AccessMule, a workflow platform designed to help SMBs handle User Access and Password Management. I'm passionate about technology and the plan of salvation. I enjoy coding, especially Python automation, and I'm studying Software Development to become a full-stack developer. I first learned English through games, YouTube, and music. Outside of tech, I love gaming, skating, and hanging out with friends. Let's connect!
+</div>
 
 ---
 
-<h1 align="center">🤖 Technologies</h1>
+## 👋 About me
 
-<p align="center">
-  <img 
-      alt="HTML"
-      title="HTML" 
-      width="80px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-  />&nbsp;&nbsp;&nbsp;
-  <img 
-      alt="CSS" 
-      title="CSS"
-      width="80px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-  />&nbsp;&nbsp;&nbsp;
-  <img 
-      alt="Python" 
-      title="Python"
-      width="80px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-  />&nbsp;&nbsp;&nbsp;
-  <img 
-      alt="C#" 
-      title="C#"
-      width="80px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-  />&nbsp;&nbsp;&nbsp;
-  <img  
-      alt="JavaScript" 
-      title="JavaScript"
-      width="80px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-  />&nbsp;&nbsp;&nbsp;
-  <img  
-      alt="NodeJS" 
-      title="NodeJS"
-      width="80px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
-  />&nbsp;&nbsp;&nbsp;
-  <img  
-      alt="React" 
-      title="React"
-      width="80px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-  />&nbsp;&nbsp;&nbsp;
-  <img  
-      alt="Next.js" 
-      title="Next.js"
-      width="80px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-  />&nbsp;&nbsp;&nbsp;
-  <img  
-      alt="MySQL" 
-      title="MySQL"
-      width="80px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-  />&nbsp;&nbsp;&nbsp;
-  <img  
-      alt="PostgreSQL" 
-      title="PostgreSQL"
-      width="80px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
-  />
-</p>
+I'm Pedro, a full-stack engineer from Brasília, Brazil. I build and run production web apps end to end, mostly in TypeScript: Node.js/NestJS APIs, React/Next.js and Angular frontends, PostgreSQL underneath, shipped with Docker and GitHub Actions.
+
+- 🛠️ Founder of **[CTR Nexus](https://ctrnexus.com)**, where I've built 6+ production apps for healthcare, media, construction, accounting and professional-services clients
+- 🤝 Customer Success Specialist (technical) at **AccessMule**, a US-based platform that helps SMBs handle user access and password management
+- 🎓 Bachelor's in Software Development at **BYU-Idaho** (expected Apr. 2027)
+- 🤖 AI-native: I work with Claude Code and Cursor every day, and I review and test everything they produce
+- 🌎 Portuguese (native), English (C2, first learned through games, YouTube and music) and Spanish (advanced)
+- 💡 Passionate about technology and the plan of salvation
+- 🛹 Outside of tech: gaming, skating and hanging out with friends
+
+## 🎯 Open to
+
+Junior **full-stack** and **software engineering** roles, remote or hybrid, especially:
+
+**TypeScript full-stack** (Node.js / NestJS + React / Next.js) · **Frontend** · **C# / .NET** · **Python / Odoo** · **Fintech & payments** · **Graduate programs**
+
+## 🧰 Tech stack
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,cs,html,css" alt="TypeScript, JavaScript, Python, C#, HTML, CSS"/>
+
+**Backend & data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,postgres,prisma,supabase,mysql,redis" alt="Node.js, NestJS, .NET, PostgreSQL, Prisma, Supabase, MySQL, Redis"/>
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind" alt="React, Next.js, Angular, Tailwind CSS"/>
+
+**DevOps & tools**<br/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,vercel,cloudflare,git,github,vscode" alt="Docker, GitHub Actions, Linux, Nginx, Vercel, Cloudflare, Git, GitHub, VS Code"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
+
+</div>
+
+## 🚀 Featured projects
+
+- **[Nexus Scan](https://scan.ctrnexus.com)**: local-business audit SaaS. TypeScript monorepo (NestJS API, Next.js app, background worker) on PostgreSQL with 24 Prisma models, AI-generated audit explanations, and CI/CD with database backups and automatic rollback.
+- **[Rotating Parking Management](https://github.com/pdmoura/verzel-estacionamento)** ([live](https://praca-central-estacionamento.vercel.app)): NestJS REST API with serializable transactions for concurrent reservations, a FIFO waitlist and an event-sourced audit history, covered by 24 e2e tests in CI.
+- **[Cadence](https://github.com/pdmoura/cadence)** ([live](https://cadence-jo48.onrender.com)): AI-assisted SDR workbench in ASP.NET Core, where a person approves or rejects every AI suggestion. 38 tests in CI.
+- **Odoo 19 modules**: [oficina-os](https://github.com/pdmoura/oficina-os) (work orders for truck-electrics shops, with a mechanic phone app and NFS-e invoicing) and [odoo-vendor-scorecard](https://github.com/pdmoura/odoo-vendor-scorecard) (grades vendors A to D from purchase data).
+- **[Claude Desktop Side by Side](https://github.com/pdmoura/claude-desktop-side-by-side)**: run several Claude Desktop accounts at once, each with its own colored taskbar icon.
 
 <br/>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" alt="Pixel art of a developer coding late at night, with the desk clock showing 01:17"/>
+  <br/>
+  <sub><i>01:17 and still coding. That's where most of my best ideas happen.</i></sub>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4ADE80,50:16A34A,100:166534&height=110&section=footer" alt=""/>
