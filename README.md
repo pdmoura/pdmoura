@@ -43,7 +43,7 @@ Junior **full-stack** and **software engineering** roles, remote or hybrid, espe
   <tr>
     <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=ts,js,py,cs,html,css&perline=3" alt="TypeScript, JavaScript, Python, C#, HTML, CSS"/></td>
     <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,react,nextjs,angular,tailwind&perline=3" alt="Node.js, NestJS, .NET, React, Next.js, Angular, Tailwind CSS"/></td>
-    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,mysql,redis&perline=3" alt="PostgreSQL, Prisma, Supabase, MySQL, Redis"/></td>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,mysql,mongodb,redis&perline=3" alt="PostgreSQL, Prisma, Supabase, MySQL, MongoDB, Redis"/></td>
     <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,vercel,cloudflare,git,github,vscode&perline=3" alt="Docker, GitHub Actions, Linux, Nginx, Vercel, Cloudflare, Git, GitHub, VS Code"/></td>
   </tr>
 </table>
