@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:166534,50:16A34A,100:4ADE80&height=190&section=header&text=Pedro%20Alves&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%E2%80%A2%20React&descAlignY=58&descSize=18" alt="Pedro Alves, Full-Stack Engineer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:4ADE80,100:86EFAC&height=190&section=header&text=Pedro%20Alves&fontSize=48&fontColor=052E16&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%E2%80%A2%20React&descAlignY=58&descSize=18" alt="Pedro Alves, Full-Stack Engineer"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=620&lines=Full-stack+web+apps%2C+from+database+to+deploy;NestJS+%2B+PostgreSQL+%2B+Next.js;AI-native%3A+building+with+Claude+Code+every+day;Bras%C3%ADlia%2C+Brazil+%E2%80%A2+Remote+%E2%80%A2+EN+%2F+PT+%2F+ES" alt="Full-stack web apps, from database to deploy"/></a>
 
@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/pedroalves0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://pedrow.tech"><img src="https://img.shields.io/badge/Portfolio-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://ctrnexus.com"><img src="https://img.shields.io/badge/CTR_Nexus-0D1117?style=for-the-badge&logo=github&logoColor=4ADE80" alt="CTR Nexus"/></a>
+<a href="https://ctrnexus.com"><img src="https://img.shields.io/badge/CTR_Nexus-15803D?style=for-the-badge" alt="CTR Nexus"/></a>
 
 </div>
 
@@ -72,4 +72,4 @@ Junior **full-stack** and **software engineering** roles, remote or hybrid, espe
   <sub><i>01:17 and still coding. That's where most of my best ideas happen.</i></sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4ADE80,50:16A34A,100:166534&height=110&section=footer" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:86EFAC,50:4ADE80,100:22C55E&height=110&section=footer" alt=""/>
