@@ -21,7 +21,7 @@ I'm Pedro, a full-stack engineer from Brasília, Brazil. I build and run product
 - Founder of **[CTR Nexus](https://ctrnexus.com)**, where I've built 6+ production apps for healthcare, media, construction, accounting and professional-services clients, including **[Nexus Scan](https://scan.ctrnexus.com)**, a local-business audit SaaS
 - Customer Success Specialist (technical) at **AccessMule**, a US-based platform that helps SMBs handle user access and password management
 - Bachelor's in Software Development at **BYU-Idaho** (expected Apr. 2027)
-- AI-native: I work with Claude Code and Cursor every day, and I review and test everything they produce
+- AI-native: I work with Claude Code and Codex every day, and I review and test everything they produce
 - Portuguese (native), English (C2, first learned through games, YouTube and music) and Spanish (advanced)
 - Passionate about technology and the plan of salvation. Outside of tech: gaming, skating and hanging out with friends
 
@@ -50,7 +50,7 @@ Junior **full-stack** and **software engineering** roles, remote or hybrid, espe
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge" alt="Codex"/>
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
 </p>
 
